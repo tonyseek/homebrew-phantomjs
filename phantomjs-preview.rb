@@ -1,4 +1,4 @@
-cask :v1 => 'phantomjs' do
+cask :v1 => 'phantomjs-preview' do
   version '2.0.1'
   sha256 '0c3613d21187b4f3d02d3df9597800f404ff872bd43b748fb3fad84da425ae85'
 
