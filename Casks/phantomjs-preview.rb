@@ -5,7 +5,6 @@ cask 'phantomjs-preview' do
   url "https://github.com/Vitallium/phantomjs/releases/download/#{version}/phantomjs-#{version}-macosx.zip"
   name 'PhantomJS'
   homepage 'http://phantomjs.org/'
-  license :bsd
 
   binary "phantomjs-#{version}-macosx/bin/phantomjs"
 end
